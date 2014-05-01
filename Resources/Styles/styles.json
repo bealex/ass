@@ -1,0 +1,20 @@
+{
+    "window": {
+        "backgroundColor": "#fff340",
+
+        "keyboardIsDark": true
+    },
+
+    "helloLabel": {
+        "text": "ÅSS example :-)"
+    },
+
+    "helloLabelTextAttributes": {
+        "font": {
+            "name": "HelveticaNeue-UltraLight",
+            "size": 36
+        },
+        "color" : "#40a5ff",
+        "alignment": "NSTextAlignmentCenter"
+    }
+}
