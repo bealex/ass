@@ -1,3 +1,7 @@
+Please note that this code is in active development state and contains bugs, inconsistencies and strange parts. Interfaces are also subject to change.
+
+But hey, will it really stop you? :)
+
 Ångstrom Style System
 ===
 
